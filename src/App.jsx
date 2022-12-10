@@ -30,3 +30,7 @@ function App() {
 }
 
 export default App;
+
+// Profe: Soy Eduardo Cayupan; le comenté a Belén que tuve algunos inconvenientes para hacer el final estos días, por cuestiones familiares principalemente (me dijo que te iba a comentar para que estuvieras al tanto)
+// // No pude terminar el examen porque no me alcanzó el tiempo. Planteé casi todas las interacciones de la página   excepto los conceptos de useReducer y globalContexto (que lo esbocé nada mas). Obviamente los estilos los dejé para el final pero no llegué a tocarlos (dejé las imagenes comentadas para que no interfieran).
+// De ser posible me gustaría que me adelantes como va a ser el recuperatorio así puedo empezar a prepararlo. Está demás decir que este examen voy a terminarlo en estos días.
