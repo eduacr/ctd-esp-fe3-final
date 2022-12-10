@@ -94,6 +94,14 @@ form{
   margin: 0 auto;
 }
 
+.card-grid2{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.125rem;
+  text-align: center;
+  margin: 0 auto;
+}
+
 table {
  border-collapse: collapse;
     border-spacing: 0;
